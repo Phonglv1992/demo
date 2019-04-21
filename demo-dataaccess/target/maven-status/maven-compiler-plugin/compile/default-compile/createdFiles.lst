@@ -1,0 +1,3 @@
+com\phonglv\demo\data\repository\query\customer\CustomerQueryRepository.class
+com\phonglv\demo\data\repository\query\customer\CustomerQueryRepositoryImpl.class
+com\phonglv\demo\data\repository\query\booking\BookingQueryRepository.class
